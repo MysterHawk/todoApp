@@ -1,0 +1,14 @@
+{
+  "taskName": "Run todoApp.nim",
+  "command": "nim",
+  "args": ["c", "-r", "todoApp.nim"],
+  "options": {
+    "cwd": "${workspaceRoot}"
+  },
+  "type": "shell",
+  "group": {
+    "kind": "build",
+    "isDefault": true
+  },
+  "version": "2.0.0"
+}

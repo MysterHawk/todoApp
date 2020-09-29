@@ -1,0 +1,7 @@
+{
+  "nim.buildOnSave": true,
+  "nim.buildCommand": "c",
+  "nim.lintOnSave": true,
+  "nim.project": ["todoApp.nim"],
+  "nim.licenseString": "# Copyright 2017.\n\n"
+}
